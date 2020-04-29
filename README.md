@@ -10,6 +10,6 @@ Attached is the figure for Rt, and detailed result refer to the csv file in repo
 
 Reference
 1.	Pan A, Liu L, Wang C, et al. Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China [J]. Jama, 2020, e206130. doi:10.1001/jama.2020.6130.
-2.	Zhang J, Litvinova M, Wang W, et al. Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study. Lancet Infect Dis 2020; 
+2.	Zhang J, Litvinova M, Wang W, et al. Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study. Lancet Infect Dis 2020; S1473-3099(20)30230-9. doi:10.1016/S1473-3099(20)30230-9.
 3.	Liu Q, Ajelli M, Aleta A, Merler S, Moreno Y, Vespignani A. Measurability of the epidemic reproduction number in data-driven contact networks. Proc Natl Acad Sci 2018;115(50):12680.
 4.	World Health Organization Ebola Response Team, Aylward B, Barboza P, et al. Ebola virus disease in West Africa--the first 9 months of the epidemic and forward projections. N Engl J Med 2014;371(16):1481-95.
