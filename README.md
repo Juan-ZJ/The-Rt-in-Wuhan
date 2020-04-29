@@ -1,7 +1,7 @@
 # The-Rt-in-Wuhan
 **Method**
 
-We repeated the process of calculating Rt in Wuhan in the Article published in JAMA [1] by using the methodology described elsewhere [2].
+We repeated the process of calculating Rt in Wuhan in the Article published in **JAMA** [1] by using the methodology described elsewhere [2].
 In brief, we adjusted the methodology presented in references [3-4] to account for case importations. Considering the same parameter for serial interval as 7.5 days (SD: 3.4 days), we run 1,000,000 iterations with non-informative prior distributions of Rt (flat distribution in the range (0-1000]). The code is freely available at elsewhere (https://github.com/majelli/Rt).
 
 **Result**
